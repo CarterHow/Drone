@@ -1,4 +1,4 @@
 List of Links that have helped me 
 
 Arduino Uno drone flight controller 
-https://github.com/lobodol/drone-flight-controller
+https://github.com/lobodol/drone-flight-controller (https://www.firediy.fr/article/mesurer-des-angles-avec-un-arduino-drone-ch-7)(in French)
